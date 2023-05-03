@@ -29,8 +29,10 @@ Final Project 기간에 제작된 교육 플랫폼 기반의 학교 사이트입
 
 ### :computer:개발환경
 > `Javascript(ES6)`<br/>
-> `Html5` `Ejs`<br/>
-> `Css3` `Sass`<br/>
+> `Html5`<br/>
+> `Ejs`<br/>
+> `Css3`<br/>
+> `Sass`<br/>
 > **DataBase** : `Maria DB(11.0)`
 <br/>
 
